@@ -4,13 +4,24 @@
     --pink2: #FFAFCC;
     --blue: #BDE0FE;
     --blue2: #A2D2FF;
-    --black: black
+    --black: black;
  }
+* {
+    background-color: #3f612d;
 
- * {
-    background-color: var(--blue);
-    margin: 0px;
-    padding:0px;
- }
+}
+body {
+    background-color: #FEEA00;
+    margin: 0%;
+    padding:0%;
+}
+header{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    position: relative;
+}
+
+
 
 
