@@ -1,0 +1,16 @@
+.root {
+    --lav: ;
+    --pink: #FFC8DD; 
+    --pink2: #FFAFCC;
+    --blue: #BDE0FE;
+    --blue2: #A2D2FF;
+    --black: black
+ }
+
+ * {
+    background-color: var(--blue);
+    margin: 0px;
+    padding:0px;
+ }
+
+
